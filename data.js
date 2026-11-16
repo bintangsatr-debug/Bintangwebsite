@@ -35,7 +35,7 @@ const GAMES=[
 const CATS=['Buku Pelajaran','Sejarah','Pengetahuan Umum','Pengembangan Diri','Referensi'];
 const BOOKS=[
  {title:'Sejarah Indonesia',author:'Kemdikbud',cat:'Sejarah',href:''},
- {title:'Matematika SMA',author:'Kemdikbud',cat:'Buku Pelajaran',href:''},
+ {title:'Sejarah Lanjut',author:'Buku LKS bu esti',cat:'Buku LKS',href:'https://drive.google.com/file/d/1nNppiXPF-W8gqZuqNf-FiTx37w-s-kY6/view?usp=drivesdk'},
  {title:'Filsafat Ilmu',author:'Dr. J. Sudarminta',cat:'Referensi',href:''},
  {title:'Ensiklopedia Dunia',author:'Wikipedia',cat:'Pengetahuan Umum',href:''}
 ];
