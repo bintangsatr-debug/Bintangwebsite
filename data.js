@@ -6,7 +6,7 @@
 const OWNER='Bintang Satria';
 
 const SUBJ=[
- {n:'Matematika',i:'∑',href:''},
+ {n:'Matematika',i:'pelajaran iki maneh',href:''},
  {n:'Bahasa Indonesia',i:'Aa',href:''},
  {n:'Bahasa Inggris',i:'En',href:''},
  {n:'Sejarah',i:'⌛',href:''},
