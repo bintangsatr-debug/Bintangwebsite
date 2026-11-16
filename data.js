@@ -6,18 +6,18 @@
 const OWNER='Bintang Satria';
 
 const SUBJ=[
- {n:'Matematika',i:'👁👄👁',href:''},
- {n:'Bahasa Indonesia',i:'Aa',href:''},
- {n:'Bahasa Inggris',i:'En',href:''},
+ {n:'Matematika',i:'123',href:''},
+ {n:'Bahasa Indonesia',i:'Abc',href:''},
+ {n:'Bahasa Inggris',i:'🇺🇸',href:''},
  {n:'Sejarah',i:'⌛',href:''},
- {n:'Sejarah Tingkat Lanjut',i:'♜',href:''},
- {n:'Biologi',i:'⌬',href:''},
- {n:'Informatika',i:'</>',href:''},
- {n:'Pendidikan Pancasila',i:'★',href:''},
- {n:'Pendidikan Agama Islam',i:'☪',href:'https://bintangkisikisiagamaxi.netlify.app'},
- {n:'PJOK',i:'↗',href:''},
- {n:'Seni Budaya',i:'◐',href:''},
- {n:'PKWU',i:'▣',href:''},
+ {n:'Sejarah Tingkat Lanjut',i:'🗿',href:''},
+ {n:'Biologi',i:'🦠',href:''},
+ {n:'Informatika',i:'</>',href:'💻'},
+ {n:'Pendidikan Pancasila',i:'🇮🇩',href:''},
+ {n:'Pendidikan Agama Islam',i:'🕋',href:''},
+ {n:'PJOK',i:'💪',href:''},
+ {n:'Seni Budaya',i:'🎨',href:''},
+ {n:'PKWU',i:'💸',href:''},
  {n:'Bahasa Inggris Tingkat Lanjut',i:'En+',href:''}
 ];
 
