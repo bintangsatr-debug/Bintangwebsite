@@ -6,7 +6,7 @@
 const OWNER='Bintang Satria';
 
 const SUBJ=[
- {n:'Matema Bros',i:'1+1=💔',href:'https://game-mat.bintangsatr.workers.dev/'},
+ {n:'Matema Bros',i:'123',href:''},
  {n:'Bahasa Indonesia',i:'Abc',href:''},
  {n:'Bahasa Inggris umum',i:'🗽',href:''},
  {n:'Sejarah',i:'⌛',href:''},
@@ -22,7 +22,7 @@ const SUBJ=[
 ];
 
 const GAMES=[
- {n:'Kuis Pilihan Ganda',i:'?',href:''},
+ {n:'Kuis Pilihan Ganda',i:'Matema Bros',href:'https://game-mat.bintangsatr.workers.dev/'},
  {n:'Tebak Jawaban',i:'…',href:''},
  {n:'Flashcard',i:'▭',href:''},
  {n:'Tebak Tokoh Sejarah',i:'☺',href:''},
