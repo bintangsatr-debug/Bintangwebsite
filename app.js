@@ -24,8 +24,8 @@ const list=(t,L)=>app.innerHTML=`<div class="h2s"><h2>${t}</h2></div><div class=
 function home(){
   app.innerHTML=`<section class="hero-box"><div class="hud mono"><span>&gt; SELAMAT DATANG</span><span><i class="dot"></i>SYSTEM ONLINE</span></div>
   <h1 class="hero caret" id="name" aria-label="${esc(OWNER)}"></h1>
-  <div class="hud mono" style="margin-top:6px"><span>/// PERSONAL KNOWLEDGE DATABASE</span><span>ID-${String(SUBJ.length).padStart(3,'0')}-X</span></div>
-  <p>Selamat datang di perpustakaan belajarmu. Terus belajar, raih masa depan.</p></section>
+  <div class="hud mono" style="margin-top:6px"><span>/// Penyimpanan Materi dan Buku PDF</span><span>ID-${String(SUBJ.length).padStart(3,'0')}-X</span></div>
+  <p>Website aing nih,khusus buat nyimpen materi sama buku pdf buat belajar</p></section>
   <div class="stats"><div class="stat"><b>${SUBJ.length}</b><small>MATERI</small></div><div class="stat"><b>${BOOKS.length}</b><small>BUKU</small></div><div class="stat"><b>${GAMES.length}</b><small>GAME</small></div></div>
   <section class="sec rv">${secH('Materi Pelajaran','Pilih mata pelajaran untuk mulai belajar.','#/materi')}<div class="grid">${SUBJ.map(linkCard).join('')}</div></section>
   <section class="sec rv">${secH('Perpustakaan Buku PDF','Koleksi buku digital untuk menambah wawasan.','#/buku')}<div class="grid">${BOOKS.slice(0,4).map(bookCard).join('')}</div></section>
