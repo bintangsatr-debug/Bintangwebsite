@@ -6,7 +6,7 @@
 const OWNER='Bintang Satria';
 
 const SUBJ=[
- {n:'Matematika',i:'123',href:''},
+ {n:'Matema Bros',i:'1+1=💔',href:'https://game-mat.bintangsatr.workers.dev/'},
  {n:'Bahasa Indonesia',i:'Abc',href:''},
  {n:'Bahasa Inggris umum',i:'🗽',href:''},
  {n:'Sejarah',i:'⌛',href:''},
