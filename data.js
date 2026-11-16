@@ -21,11 +21,6 @@ const SUBJ=[
  {n:'Bahasa Inggris Tingkat Lanjut',i:'🇺🇸',href:''}
 ];
 
-{n:'Seni Budaya',i:'🎨',href:''},
- {n:'PKWU',i:'💸',href:''},
- {n:'Bahasa Inggris Tingkat Lanjut',i:'🇺🇸',href:''}
-];
-
 const GAMES=[
  {n:'Kuis Pilihan Ganda',i:'?',href:''},
  {n:'Tebak Jawaban',i:'…',href:''},
