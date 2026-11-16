@@ -3,7 +3,7 @@
    - href: isi dengan link web lain / halaman sendiri (contoh: 'https://webkamu.com' atau 'materi/matematika.html')
    - href kosong ('') = kartu tampil "Segera hadir" dan belum bisa diklik
    ========================================================== */
-const OWNER='Celo Cero';
+const OWNER='Bintang Satria';
 
 const SUBJ=[
  {n:'Matematika',i:'∑',href:''},
