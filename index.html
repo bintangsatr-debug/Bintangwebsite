@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="id" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Personal Study Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="loader"><div class="ld-t">MEMUAT SISTEM</div><div class="ld-bar"><i></i></div></div>
+<canvas id="bg" aria-hidden="true"></canvas><div class="grid3d" aria-hidden="true"></div><div class="scan" aria-hidden="true"></div>
+<header class="top">
+  <a class="brand" href="#/">✦ <b>PSL</b><small>Personal Study Library</small></a>
+  <nav id="nav"><a href="#/" data-r="">Beranda</a><a href="#/materi" data-r="materi">Materi</a><a href="#/buku" data-r="buku">Buku</a><a href="#/game" data-r="game">Game</a></nav>
+  <div class="tools"><span id="clock" class="mono"></span><button id="theme" class="btn sm" aria-label="Ganti tema">◐</button></div>
+  <div class="srch"><input id="q" type="search" placeholder="Cari materi, buku, atau game…" autocomplete="off"><div id="res"></div></div>
+</header>
+<main id="app"></main>
+<footer class="foot mono"><span>PSL v1.0 · KNOWLEDGE BASE</span><span id="fstat"></span></footer>
+<div id="modal" hidden></div>
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
